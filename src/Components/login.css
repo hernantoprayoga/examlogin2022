@@ -1,0 +1,38 @@
+.icon-img {
+  widht: 250px;
+  height: 250px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.forgotpw {
+  margin-left: 5rem;
+}
+.reset {
+  color: #ffffff;
+}
+.bg-success {
+  background-image: url(../image/Untitled-1.jpg);
+  padding: 3rem;
+}
+.icon input[type="text"] {
+  padding-left: 40px;
+}
+.inputtext {
+  margin-right: 1rem;
+  margin-left: 1rem;
+}
+.buttonsize {
+  width: 200px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.home {
+  background-image: url(../image/stick-figures-holding-word-welcome-vector-banner-text-welcome-welcome-together-people-big-colorful-letters-114865217.jpg);
+}
+.inputicon {
+  background-image: url(../image/bg.jpg);
+  padding: 3rem;
+}
+.style {
+  font-size: small;
+}
